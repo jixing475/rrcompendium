@@ -1,7 +1,7 @@
 Package: rrcompendium
 Title: Title Partial Reproduction Of Boettiger Ecology Letters 2018;21:1255-1267 with rtools
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person(given = "Jixing",
            family = "Liu",
            role = c("aut", "cre"),
@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jixing475/rrcompendium
 BugReports: https://github.com/jixing475/rrcompendium/issues
+Imports: bookdown
